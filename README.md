@@ -1,4 +1,4 @@
-# Cyber Forensics — Practical Investigations
+# Cyber Forensics; Practical Investigations
 
 A collection of three digital forensics projects I worked on. Each one is a different kind of case, one started with a hard drive, one with captured network traffic, and one with a snapshot of a computer's memory. I've put my report and the screenshots I took along the way in here as a portfolio of the work.
 
