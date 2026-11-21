@@ -1,0 +1,24 @@
+# Evidence & large binaries — never commit
+*.dd
+*.001
+*.00*
+*.E01
+*.vmem
+*.vmdk
+*.raw
+*.mem
+*.pcap
+*.pcapng
+*.zip
+*.exe
+*.dll
+diego.png
+
+# Assessment materials (not mine to republish)
+*Assessment*.pdf
+*Questions*.pdf
+*Guidance*.pdf
+
+# OS cruft
+.DS_Store
+Thumbs.db
